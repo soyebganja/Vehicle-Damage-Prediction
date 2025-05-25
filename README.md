@@ -164,9 +164,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For any inquiries, feel free to reach out:
 
-**LinkedIN**: https://linkedin.com/in/soyeb-ganja
-**Email**: soyeb.ganja@gmail.com
-**GitHub**: SoyebGanja[https://github.com/soyebganja/ml-project-premium-prediction/blob/main/README.md]
+- **LinkedIN**: https://linkedin.com/in/soyeb-ganja
+- **Email**: soyeb.ganja@gmail.com
+- **GitHub**: SoyebGanja[https://github.com/soyebganja]
 
 
 ---
