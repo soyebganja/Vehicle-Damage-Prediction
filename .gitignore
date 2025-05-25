@@ -27,6 +27,7 @@ share/python-wheels/
 MANIFEST
 training
 venv_streamlit
+streamlit-app/model
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
