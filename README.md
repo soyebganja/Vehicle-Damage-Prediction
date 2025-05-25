@@ -166,7 +166,7 @@ For any inquiries, feel free to reach out:
 
 - **LinkedIN**: https://linkedin.com/in/soyeb-ganja
 - **Email**: soyeb.ganja@gmail.com
-- **GitHub**: SoyebGanja[https://github.com/soyebganja]
+- **GitHub**: (SoyebGanja)[https://github.com/soyebganja]
 
 
 ---
