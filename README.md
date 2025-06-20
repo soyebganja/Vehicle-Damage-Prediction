@@ -2,7 +2,7 @@
 
 A deep learning application that detects and classifies vehicle damage using computer vision. Built with PyTorch and Streamlit for easy web-based interaction.
 
-### Live Demo link: https://vehicle-damage-prediction-soyeb-ganja.streamlit.app/
+### 🎯 Try the live demo: https://vehicle-damage-prediction-soyeb-ganja.streamlit.app/
 
 ![image](https://github.com/user-attachments/assets/2b792717-918e-4d77-ab2a-53f8deb58847)
 
